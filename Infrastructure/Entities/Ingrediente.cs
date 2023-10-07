@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Entities
 {
-    internal class Ingrediente
+    public class Ingrediente
     {
     }
 }
